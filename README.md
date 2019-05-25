@@ -1,1 +1,1 @@
-# liberty-prime-git
+# liberty-prime
